@@ -1,7 +1,8 @@
 # Kickstarting with Excel
 
+<<<<<<< HEAD
 ## Overview of Project
-
+![](https://github.com/c3crocks/kickstarter/tree/main/Resources/Outcomes_vs_Goals.png?raw=true)
 ### Purpose
 
 ## Analysis and Challenges
@@ -21,3 +22,4 @@
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+=======
