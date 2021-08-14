@@ -34,8 +34,19 @@ Out of other Categories Journalism is an exception where all campaigns were canc
 ![Outcomes Based on Launch Date - Journalism](https://github.com/c3crocks/kickstarter/blob/main/Additional_Images/Journalism_Outcome_LaunchData.png)
 
 ### Analysis of Outcomes Based on Goals
+In the chart of Outcomes based on Goals, we are looking at the Sub-Category 'Plays'.
+The chart shows that campaigns with a goal 'less than $1000' have shown the highest success rate of 75.81% trailing by goal category '$1000 to $4999' at 72.61%.
+Failure percentage also has the same 2 categories fighting for the top spot with 'less than 1000' at 24.19%.
+No campaigns were cancelled for plays sub-category. 
 
 ![](https://github.com/c3crocks/kickstarter/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
+
+We can conclude that category 'less than 1000' category to be more successful. 
+However if we take a look at the count chart below we can observe that the category '$1000 to $4999' has higher number of campaigns even though it fell short to prove its caliber on the percentage chart. 
+We can observe that better insights can be seen by showing the Outcomes by Based on Goal by counts. 
+
+![](https://github.com/c3crocks/kickstarter/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
