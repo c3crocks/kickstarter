@@ -24,6 +24,11 @@ Theaters also occupies the top spot for the highest number of succesfull campaig
 
 ![Outcomes Based on Launch Date - Theater](https://github.com/c3crocks/kickstarter/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
+If we take look at the trend over years rise in pledges in Theater started from the year 2014 and contnued a similar trend year over year. 
+From year 2010 to 2013 all campaigns have remained successful with 0 cancellation/failure. 
+
+![Outcomes Based on Launch Date - Theater](https://github.com/c3crocks/kickstarter/blob/main/Additional_Images/Thetres_Outcome_LaunchDate.png)
+
 Out of other Categories Journalism is an exception where all campaigns were cancelled. 
 
 ![Outcomes Based on Launch Date - Journalism](https://github.com/c3crocks/kickstarter/blob/main/Additional_Images/Journalism_Outcome_LaunchData.png)
