@@ -24,7 +24,7 @@ Please find below different analysis.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-	-Yes
+	- Yes
 
 - What can you conclude about the Outcomes based on Goals?
 
