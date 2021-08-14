@@ -63,7 +63,8 @@ I encountered xxxx Challenges while completing the assignment
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 	- The chances of a Theater act is less likely to fail in comparison to other campaign categories. 
-		- From the given data, Theater is best option to launch campaigns starting from April to May. It would be best to avoid period between October to January. 
+		- From the given data, Theater is best option to launch campaigns starting from April to May
+		- It would be best to avoid period between October to January. 
 	- Among the 3 sub-categories, 'plays' remains most successfull while musical and spaces showed almost equal potential (Refer to the chart below)
 
 ![](https://github.com/c3crocks/kickstarter/blob/main/Additional_Images/Sub-Category_Outcome_LaunchDate.png) 
