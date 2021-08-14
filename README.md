@@ -15,7 +15,14 @@ We would be analyzing the data to provide various insights with regards to campa
 Please find below different analysis. 
 
 ### Analysis of Outcomes Based on Launch Date
-![](https://github.com/c3crocks/kickstarter/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+The first analysis is based on the Launch data for Parent Category 'Theater' since 2009.
+By looking at the chart, on a monthly basis the count of successful campaigns get a sudden rise from March till May. 
+The count dips starting from May until September only to see a slight increase October to drop till December. 
+This trend stands equally true for the failed campaigns as well. 
+Relatively the Cancelled campaigns remained low. 
+![Outcomes Based on Launch Date - Theater](https://github.com/c3crocks/kickstarter/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
+
 ### Analysis of Outcomes Based on Goals
 
 ![](https://github.com/c3crocks/kickstarter/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
