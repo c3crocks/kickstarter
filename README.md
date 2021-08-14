@@ -45,7 +45,7 @@ We can conclude that category 'less than 1000' category to be more successful.
 However if we take a look at the count chart below we can observe that the category '$1000 to $4999' has higher number of campaigns even though it fell short to prove its caliber on the percentage chart. 
 We can observe that better insights can be seen by showing the Outcomes by Based on Goal by counts. 
 
-![](https://github.com/c3crocks/kickstarter/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
+![](https://github.com/c3crocks/kickstarter/blob/main/Additional_Images/PlayCount.png)
 
 ### Challenges and Difficulties Encountered
 
