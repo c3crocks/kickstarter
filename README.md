@@ -20,8 +20,13 @@ By looking at the chart, on a monthly basis the count of successful campaigns ge
 The count dips starting from May until September only to see a slight increase October to drop till December. 
 This trend stands equally true for the failed campaigns as well. 
 Relatively the Cancelled campaigns remained low. 
+Theaters also occupies the top spot for the highest number of succesfull campaigns compared to other categories.
+
 ![Outcomes Based on Launch Date - Theater](https://github.com/c3crocks/kickstarter/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
+Out of other Categories Journalism is an exception where all campaigns were cancelled. 
+
+![Outcomes Based on Launch Date - Theater](https://github.com/c3crocks/kickstarter/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
