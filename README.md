@@ -2,7 +2,7 @@
 
 <<<<<<< HEAD
 ## Overview of Project
-![](https://github.com/c3crocks/kickstarter/tree/main/Resources/Outcomes_vs_Goals.png?raw=true)
+![](https://github.com/c3crocks/kickstarter/blob/main/Outcomes_vs_Goals.png?raw=true)
 ### Purpose
 
 ## Analysis and Challenges
