@@ -26,7 +26,7 @@ Theaters also occupies the top spot for the highest number of succesfull campaig
 
 Out of other Categories Journalism is an exception where all campaigns were cancelled. 
 
-![Outcomes Based on Launch Date - Theater](https://github.com/c3crocks/kickstarter/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date - Journalism](https://github.com/c3crocks/kickstarter/blob/main/Additional_Images/Journalism_Outcome_LaunchData.png)
 
 ### Analysis of Outcomes Based on Goals
 
