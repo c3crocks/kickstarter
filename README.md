@@ -84,19 +84,20 @@ I encountered xxxx Challenges while completing the assignment
 - What are some other possible tables and/or graphs that we could create?
 
 	- All images below are excluding Journalism since all campaigns were cancelled.
-		- Count of Backers (Excluding Journalism)
+
+##### Count of Backers (Excluding Journalism)
 
 ![](https://github.com/c3crocks/kickstarter-analysis1/blob/main/Additional_Images/CountofBackers.png)
 
-		- Count of Backers by Year (Excluding Journalism)
+##### Count of Backers by Year (Excluding Journalism)
 
 ![](https://github.com/c3crocks/kickstarter-analysis1/blob/main/Additional_Images/CountofBackersOverTime.png)
 
-		- Count of Backers by Country (Excluding Journalism)
+##### Count of Backers by Country (Excluding Journalism)
 
 ![](https://github.com/c3crocks/kickstarter-analysis1/blob/main/Additional_Images/CountofBackersbycountry.png)
 
-		- Count of Exceeded Goals and Underfunded Goal (Excluding Journalism)
+##### Count of Exceeded Goals and Underfunded Goal (Excluding Journalism)
 
 The below analysis was done by counting campaigns that exceeded its funding goals. 
 Expression used: 
