@@ -2,7 +2,6 @@
 
 ## Overview of Project
 The kickstarter data set provided information about how an individual Louise started different fundraising campaigns she launched in different countries since 2009. 
-changed name
 The Goal column tells us how much money each campaign will need to succeed.
 The Pledged column tells us how much each campaign actually made.
 The Outcomes column tells us if the campaign met its goal.
@@ -70,7 +69,7 @@ I encountered xxxx Challenges while completing the assignment
 ![](https://github.com/c3crocks/kickstarter/blob/main/Additional_Images/Sub-Category_Outcome_LaunchDate.png) 
 
 - What can you conclude about the Outcomes based on Goals?
-	- 
+
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
