@@ -41,7 +41,7 @@ No campaigns were cancelled for plays sub-category.
 
 ![](https://github.com/c3crocks/kickstarter/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
-We can conclude that category 'less than 1000' category to be more successful. 
+Just by lookinga at the chart we can conclude that category 'less than 1000' category to be more successful. 
 
 However if we take a look at the count chart below we can observe that the category '$1000 to $4999' has higher number of campaigns even though it fell short to prove its caliber on the percentage chart. 
 We can observe that better insights can be seen by showing the Outcomes by Based on Goal by counts. 
@@ -69,7 +69,17 @@ I encountered xxxx Challenges while completing the assignment
 ![](https://github.com/c3crocks/kickstarter/blob/main/Additional_Images/Sub-Category_Outcome_LaunchDate.png) 
 
 - What can you conclude about the Outcomes based on Goals?
-
+	- The 'Less than 1000' category showed promising results based on the percentage of succesfful campaigns.
+	- However the campaigns with goal category '1000 to 4999' remain the strongest contender for theater category with 387 successful campaigns compared to only 141 of 'Less than 1000'. 
+	- Conducting more campaigns with '1000 to 4999' category would give promising results. 
+	
 - What are some limitations of this dataset?
+	- The dataset provided information about each campaigns was limited. It would have been easier to categorize them under comedy, thriller, suspense and so on
+		- This could also help us understand if themes affected the campaigns to fail
+	- There was no information about the backers
+		- is the pledge coming from an institution or individual
+		- Reasons to participate
+	- FX rates for currency at the time (USD to GBP, USD to EUR and so on) to precisely calculate the average donation in each country
 
 - What are some other possible tables and/or graphs that we could create?
+	- 
