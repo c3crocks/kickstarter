@@ -82,4 +82,28 @@ I encountered xxxx Challenges while completing the assignment
 	- FX rates for currency at the time (USD to GBP, USD to EUR and so on) to precisely calculate the average donation in each country
 
 - What are some other possible tables and/or graphs that we could create?
-	- 
+
+All images below are excluding Journalism since all campaigns were cancelled.
+#### Count of Backers (Excluding Journalism)
+
+![](https://github.com/c3crocks/kickstarter-analysis1/blob/main/Additional_Images/CountofBackers.png)
+
+#### Count of Backers by Year (Excluding Journalism)
+
+![](https://github.com/c3crocks/kickstarter-analysis1/blob/main/Additional_Images/CountofBackersOverTime.png)
+
+#### Count of Backers by Country (Excluding Journalism)
+
+![](https://github.com/c3crocks/kickstarter-analysis1/blob/main/Additional_Images/CountofBackersbycountry.png)
+
+#### Count of Backers by Country (Excluding Journalism)
+
+The below analysis was done by counting campaigns that exceeded its funding goals. 
+Expression used: 
+##### if((Pledged/Goal)*100)-100 > 0 is 'Exceeded Goal'
+##### if((Pledged/Goal)*100)-100 < 0 is 'Underfunded Goal'
+
+![](https://github.com/c3crocks/kickstarter-analysis1/blob/main/Additional_Images/GoalsPie.png)
+
+
+
