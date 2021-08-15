@@ -2,7 +2,7 @@
 
 ## Overview of Project
 The kickstarter data set provided information about how an individual Louise started different fundraising campaigns she launched in different countries since 2009. 
-
+changed name
 The Goal column tells us how much money each campaign will need to succeed.
 The Pledged column tells us how much each campaign actually made.
 The Outcomes column tells us if the campaign met its goal.
