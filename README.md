@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The kickstarter data set provided information about how an individual Louise started different fundraising campaigns she launched in different countries since 2009. 
+The kickstarter data set provided information about how an individual Louise started different fundraising campaigns launched in different countries since 2009. 
 The Goal column tells us how much money each campaign will need to succeed.
 The Pledged column tells us how much each campaign actually made.
 The Outcomes column tells us if the campaign met its goal.
@@ -49,7 +49,7 @@ We can observe that better insights can be seen by showing the Outcomes by Based
 ![](https://github.com/c3crocks/kickstarter/blob/main/Additional_Images/PlayCount.png)
 
 ### Challenges and Difficulties Encountered
-I encountered xxxx Challenges while completing the assignment
+I encountered the following challenge while completing the assignment
 #### Sorting Goal Categories 
 - Sorting them as per requirements in the chart from the pivot table was something I couldn't figure out
 - I used a sorting order in the end of the table to get it right only to face another issue where it showed up in the chart too
